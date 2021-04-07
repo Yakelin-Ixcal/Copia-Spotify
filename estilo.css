@@ -1,0 +1,67 @@
+.logo img{
+
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 30px;
+   
+}
+
+.uno{
+
+   text-align: center;
+ 
+}
+
+.boton1{
+    background-color: rgb(19, 19, 179);
+    color: rgb(252, 252, 252);
+    height: 50px;
+    border-radius: 30px;
+}
+
+.boton2{
+    background-color: black;
+    color: white;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.boton3{
+    background-color: white;
+    color:black;
+    height: 50px;
+    border-radius: 30px;
+}
+
+
+.h6{
+  text-align: center;
+  font-weight: normal;
+}
+
+.inicio button{
+    float: right;
+}
+
+h4{
+    text-align: center;
+}
+
+.boton5{
+
+    background-color: white;
+    color:black;
+    height: 50px;
+    border-radius: 30px;
+    width: 400px;
+}
+
+.centrar{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
